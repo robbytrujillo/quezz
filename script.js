@@ -143,14 +143,14 @@ function submitQuiz() {
    DATA AWAL CONTOH
 ====================== */
 questions.push({
-  question: "Siapakah presiden pertama Republik Indonesia?",
+  question: "Siapa wakil presiden republik indonesia sekarang?",
   options: {
-    A: "Joko Widodo",
-    B: "Soekarno",
-    C: "Soeharto",
-    D: "BJ. Habibie",
+    A: "Bahlil",
+    B: "Roy Suryo",
+    C: "Gibran Rankabuming",
+    D: "Raffi Ahmad",
   },
-  answer: "B",
+  answer: "C",
 });
 
 renderQuestions();
